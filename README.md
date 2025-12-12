@@ -13,4 +13,4 @@ Open for projects.
 - DevOps basics: Docker/containerization, CI/CD (GitHub Actions, GitLab CI), microservices, horizontal scaling)
 - Pragmatic about legacy code and noisy repos
 
-✉️ marco@heftiweb.ch · [LinkedIn](https://www.linkedin.com/in/themarcohefti/)
+✉️ marco@heftiweb.ch · [LinkedIn](https://www.linkedin.com/in/themarcohefti/) · [Substack](https://www.blog.heftiweb.ch/)
