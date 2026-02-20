@@ -10,8 +10,8 @@ Full-stack TypeScript engineer from Switzerland. I build React/Next apps and Nod
 
 ## Now
 
-- Building agentic tooling that makes developers faster (and repos quieter).
-- Shipping pragmatic full-stack features for teams that care about maintainability.
+- Building agentic tools that close the loop and speed up workflows.
+- Shipping full-stack features with clean boundaries and solid tests.
 - Available for contract work.
 
 ## Active Projects
