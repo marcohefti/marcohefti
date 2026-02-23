@@ -19,6 +19,7 @@ Full-stack TypeScript engineer from Switzerland. I build React/Next apps and Nod
 - 🌐 [`surfwright`](https://github.com/marcohefti/surfwright): token- and turn-efficient web surfing for agents.
 - 🔬 [`zero-context-lab`](https://github.com/marcohefti/zero-context-lab): test agentic tools with real agents and get structured feedback.
 - 🔒 [`vpn-proxy`](https://github.com/marcohefti/vpn-proxy): Turns your VPN into self hosted proxies.
+- 🎙️ [`mac-virtual-mic-bridge`](https://github.com/marcohefti/mac-virtual-mic-bridge): minimal and light weight macOS virtual mic bridge 
 - 🎥 [`yt-vod-manager`](https://github.com/marcohefti/yt-vod-manager): YouTube VOD archive CLI for channels and playlists.
 - 📺 [`yt-live-checker`](https://github.com/marcohefti/yt-live-checker): lightweight tool to check if a YouTube channel is live
 - 💸 [`request-network-api-client-ts`](https://github.com/marcohefti/request-network-api-client-ts): Request Network API client for Typescript and browser.
