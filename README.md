@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marco
 
-Full-stack TypeScript engineer from Switzerland. I build React/Next apps and Node/Nest services, then automate the boring parts so I can focus on the fun parts.
+Full-stack TypeScript engineer from Switzerland. I build React/Next apps and Node/Nest services, then automate the boring parts so I can focus on the exciting parts.
 
 [![Website](https://img.shields.io/badge/heftiweb.ch-0B1320?style=flat&logo=googlechrome&logoColor=white)](https://heftiweb.ch)
 [![Email](https://img.shields.io/badge/marco%40heftiweb.ch-0B1320?style=flat&logo=gmail&logoColor=white)](mailto:marco@heftiweb.ch)
